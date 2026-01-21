@@ -4,6 +4,9 @@ Este repositório reúne anotações e reflexões geradas com apoio do **Google 
 a partir de múltiplas fontes sobre a evolução histórica, técnica e filosófica da 
 Inteligência Artificial.
 
+## 📌 Link de acesso: 
+https://notebooklm.google.com/notebook/d961087a-df11-4482-9d72-08b4d1d704d8
+
 ## 📌 Visão Geral
 O conteúdo explora a trajetória da IA desde suas raízes no folclore, mitologia e 
 filosofia, passando pelos primeiros computadores eletrônicos, até os sistemas 
